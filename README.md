@@ -17,5 +17,6 @@ NOTE: I built this experiment using PsychoPy 3.2.4, they have since updated to P
 
 Please feel free to copy, share, use, or distribute any: code, builder components, or written descriptons in this repository.
 I would mainly direct any further questions about building expeirments in general to the PsychoPy discourse forum: https://discourse.psychopy.org/
-but if you have any questions specifically about this guide or any of my components I will do my best to reply to any questions sent to roberjt1 at uci dot edu
+but if you have any questions specifically about this guide or any of my components I will do my best to reply to any questions sent to roberjt1 at uci dot edu.
+
 Best of luck!
