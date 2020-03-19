@@ -5,10 +5,10 @@ NOTE: I built this experiment using PsychoPy 3.2.4, they have since updated to P
 
 ## Contents
 ### There are two main written guides:
-#### 1. Experiment Guide
-- This guide gives a walkthrough of every routine and component in the PsychoPy experiment SandwichStudy.psyexp. This guide does not go into any of the details about how to get a study like this working online, and is intended more as an explanation of all the components in the study and explanations for why I built it in this way. This is probably not a great beginners guide to building PsychoPy experiments using the builder interface, but might have some nice tools and tricks I have picked up in designing studies that might be valuable to intermediate users of PsychoPy.
+#### 1. SandwichStudy Experiment Guide
+- This guide gives a walkthrough of every routine and component in the PsychoPy experiment SandwichStudy.psyexp. This guide does not go into any of the details about how to get a study like this working online, and is intended more as an explanation of all the components in the study and explanations for why I built it in this way. This is probably not a great beginners guide to building PsychoPy experiments using the builder interface, but might have some nice tools and tricks I have picked up in designing studies that might be valuable to intermediate users of PsychoPy. I would recommend actually running through the PsychoPy experiment first, seeing if there is any feature you want to learn more about, and jumping to that portion of the guide.
 
-#### 2. Guide to uploading and running experiments on Pavlovia.org
+#### 2. Walkthrough to uploading and running experiments on Pavlovia.org
 - This guide is my attempt to document all the steps I had to take in order to go from having a complete study in the PsychoPy builder to actually having a working study on pavlovia.org. I tried to make this as general of a guide as possible, that should hopefully be applicable regardless of what your experiment looks like, but of course this is just a documentation of what I had to do for my study and yours might run into other hurdles (thats what the discourse link above is for!). This guide refers to different aspects of my experiment, and I tried to link to different parts of the Experiment guide when I refer to it.
 
 ### Exp Folder
@@ -17,5 +17,5 @@ NOTE: I built this experiment using PsychoPy 3.2.4, they have since updated to P
 
 Please feel free to copy, share, use, or distribute any: code, builder components, or written descriptons in this repository.
 I would mainly direct any further questions about building expeirments in general to the PsychoPy discourse forum: https://discourse.psychopy.org/
-but if you have any questions specifically about this guide or any of my components I will do my best to reply to any questions sent to roberjt1@uci.edu. 
+but if you have any questions specifically about this guide or any of my components I will do my best to reply to any questions sent to roberjt1 at uci dot edu
 Best of luck!
