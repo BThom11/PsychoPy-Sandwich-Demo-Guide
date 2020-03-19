@@ -1,4 +1,4 @@
-# PsychoPy-Sandwich-Guide
+# PsychoPy Sandwich Demo and Guide
 This is an online PsychoPy experiment I built recently using the PsychoPy builder, and hosted online with pavlovia.org. I've attempted to document all the steps needed in building the experiment, and getting it to work online, but if there are other unanswered questions I recommend jumping over to the PsychoPy discourse: https://discourse.psychopy.org/
 
 NOTE: I built this experiment using PsychoPy 3.2.4, they have since updated to PsychoPy 2020.1.3. This update includes a lot of great new features (mainly automatically translating your python code components to JS code components), but I believe that my experiment attached here does not run online if using this most recent update, because some of my manual JS code got overridden by the auto translated JS code. It should still run fine locally (run through PsychoPy, not online), if you would like to demo it. Hopefully that won't affect the usefulness of this guide too much
